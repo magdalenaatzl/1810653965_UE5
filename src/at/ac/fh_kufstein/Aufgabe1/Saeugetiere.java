@@ -1,4 +1,4 @@
-package at.ac.fh_kufstein.uebung;
+package at.ac.fh_kufstein.Aufgabe1;
 
 public abstract class Saeugetiere {
     private String name;
@@ -12,8 +12,10 @@ public abstract class Saeugetiere {
         this.name=name;
         this.geschlecht=geschlecht;
     }
+    //Abstrakte Methode
+    public abstract String printAll();
 
-    public abstract String prntAll();
+    //Getter und Setter
 
     public String getName() {
         return name;

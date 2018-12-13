@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ac98dac-48a7-450b-8de9-21fe2843c936" name="Default Changelist" comment="" />
+    <list default="true" id="4ac98dac-48a7-450b-8de9-21fe2843c936" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Mensch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Aufruf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Mensch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1810653965/at/ac/fh_kufstein/uebung/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1810653965/at/ac/fh_kufstein/uebung/Mensch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1810653965/at/ac/fh_kufstein/uebung/Saeugetiere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Mensch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Saeugetiere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Saeugetiere.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,70 +33,67 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="388" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="1330" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="388" />
+          <entry key="JAVA" value="1330" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Saeugetiere.java">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Mensch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="221">
+              <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
                 <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Mensch.java">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Aufruf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -96,12 +107,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Saeugetiere.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Mensch.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Main.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Mensch.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Saeugetiere.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1/Main.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1/Mensch.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1/Aufgabe1/Main.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1/Aufgabe1/Mensch.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1/Saeugetiere.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Saeugetiere.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Mensch.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Saeugetiere.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Main.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Mensch.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Student.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Aufruf.java" />
       </list>
     </option>
   </component>
@@ -116,6 +142,7 @@
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,7 +165,21 @@
               <item name="1810653965" type="b2602c69:ProjectViewProjectNode" />
               <item name="1810653965" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="uebung" type="462c0819:PsiDirectoryNode" />
+              <item name="fh_kufstein" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653965" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653965" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fh_kufstein" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653965" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653965" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fh_kufstein" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544711447687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544713789278" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,9 +205,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Aufruf">
+    <configuration name="Aufruf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.Aufgabe2.Aufruf" />
+      <module name="1810653965" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.fh_kufstein.Aufgabe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.Main" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.Aufgabe1.Aufgabe1.Main" />
       <module name="1810653965" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -175,8 +229,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Aufruf" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufruf" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -191,12 +250,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544709462540</updated>
-      <workItem from="1544709465780" duration="1692000" />
+      <workItem from="1544709465780" duration="3728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1692000" />
+    <option name="totallyTimeSpent" value="3728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -207,12 +266,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1409396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -239,43 +298,59 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Mensch.java">
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Saeugetiere.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Saeugetiere.java">
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Mensch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Mensch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/Aufgabe2/Aufruf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
